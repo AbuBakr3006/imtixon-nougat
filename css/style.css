@@ -6,6 +6,9 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 .container{
     width: 1300px;
