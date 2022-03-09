@@ -133,7 +133,7 @@
 .bx-chevron-left{
     position: absolute;
     top: 35%;
-    left: -50px;
+    left: -30px;
     font-size: 170px;
     color: var(--title--color);
 }
@@ -141,7 +141,7 @@
 .bx-chevron-right{
     position: absolute;
     top: 35%;
-    right: -50px;
+    right: 0;
     font-size: 170px;
     color: var(--title--color);
 }
